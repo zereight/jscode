@@ -23,10 +23,21 @@
 
 # 오늘의 지식 수업
 
+react
+
+- react의 특징과 탄생한 이유
 - useState
 - useEffect
 - useRef
 - hook
+- virtual DOM
+- react life cycle
+- 과거의 class component와 현재의 function component
+
+javascript
+
+- 값, 식, 문
+- localStorage, sessionStorage
 
 # 코드 리뷰 + 페어 프로그래밍
 
