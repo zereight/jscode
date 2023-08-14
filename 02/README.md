@@ -7,8 +7,9 @@
   - js에서 객체란 무엇인가?
   - js에서 원시타입에는 뭐가 있는가?
   - 일급객체란 무엇인가?
-  - commonJS, AMD, UMD, ESM 차이 디테일하게 말해보세요
+  - commonJS, AMD, UMD, ESM 차이?
   - js의 스코프란?
+  - js 엔진은 어떻게 동작하나요?
 
 - react
 
