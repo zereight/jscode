@@ -13,13 +13,14 @@
 - react
 
   - 왜 key로 index를 사용하면 안좋나?
+  - JSX란?
 
 - etc
   - CORS란?
   - script의 async와 defer의 차이는?
   - rem, em, px의 차이는?
   - 값, 식, 문의 차이는?
-  -
+  - 시맨틱 태그란?
 
 # 오늘의 지식 수업
 
