@@ -6,6 +6,10 @@
 - live share 설치
 - live server 설치
 
+# 진행방식 안내
+
+# github 양식
+
 # 면접질문 체크
 
 - js
@@ -40,6 +44,6 @@ javascript
 - 값, 식, 문
 - localStorage, sessionStorage
 
-# 코드 리뷰 + 페어 프로그래밍
+# 과제 검열 + 코드 리뷰 + 페어 프로그래밍 + 잔잔바리 상담
 
 # 자소서 리뷰 (시간부족하면 비실시간)

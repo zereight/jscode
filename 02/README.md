@@ -7,6 +7,8 @@
   - js에서 객체란 무엇인가?
   - js에서 원시타입에는 뭐가 있는가?
   - 일급객체란 무엇인가?
+  - commonJS, AMD, UMD, ESM 차이 디테일하게 말해보세요
+  - js의 스코프란?
 
 - react
 
@@ -15,6 +17,9 @@
 - etc
   - CORS란?
   - script의 async와 defer의 차이는?
+  - rem, em, px의 차이는?
+  - 값, 식, 문의 차이는?
+  -
 
 # 오늘의 지식 수업
 
