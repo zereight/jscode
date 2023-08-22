@@ -8,14 +8,21 @@
   - 렉시컬 환경이란?
   - 실행컨텍스트란?
   - 웹 표준은 왜 준수해야하나요?
+  - js의 스코프란?
 
 - react
+
+  - Reconciliation이란?
+  - 상태 끌어올리기란?
 
 - etc
   - CSR, SSR차이?
   - CSS 우선순위에 대해 설명해보세요
 
 # 오늘의 지식 수업
+
+- useContext
+- useReducer
 
 # 코드 리뷰 + 페어 프로그래밍
 
