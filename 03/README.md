@@ -4,8 +4,7 @@
 
 - js
 
-  - commonJS, AMD, UMD, ESM 차이?
-
+  - CommonJS, AMD, UMD, ESM 차이?
   - js 엔진은 어떻게 동작하나요?
   - innerHTML, textContent 차이는?
 
